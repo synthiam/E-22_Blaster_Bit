@@ -1,8 +1,9 @@
 # E-22 Blaster Bit
 
+![Blaster Bit](https://live.staticflickr.com/65535/33867577528_87d887444d_k.jpg)
 ![Blaster Bit](https://live.staticflickr.com/65535/32801181207_6bb3ebc09d_k.jpg)
 ![Blaster Bit](https://live.staticflickr.com/65535/33867577348_b748230ed4_k.jpg)
-![Blaster Bit](https://live.staticflickr.com/65535/33867577528_87d887444d_k.jpg)
+
 
 The Blaster Bit connects to the E-21 Neopixel Blaster. With EZ-builder you can create colorful Blaster bit animations!
 
