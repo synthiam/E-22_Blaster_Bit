@@ -10,7 +10,7 @@ The Blaster Bit connects to the E-21 Neopixel Blaster. With EZ-builder you can c
 
 ## Contents
 
-**Documentation:** Schematic PDF, Datasheet PDF, BOM
+**Documentation:** Schematic PDF, Datasheet PDF, BOM, Assembly Instructions
 
 **Hardware:** Altium PCB design File, Altium SCH Design File, Gerbers
 
