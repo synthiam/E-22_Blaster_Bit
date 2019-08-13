@@ -6,7 +6,7 @@
 
 This requires the Neo Pixel Blaster from here: https://github.com/synthiam/E-21_Neopixel_Blaster
 
-The Blaster Bit connects to the E-21 Neopixel Blaster. With EZ-builder you can create colorful Blaster bit animations!
+The Blaster Bit connects to the E-21 Neopixel Blaster. With EZ-builder you can create colorful Blaster bit animations! A unique feature of the blaster bit is that it has a 5V regulator on-board so that it can be powered by higher voltages if needed. It doesn't need a dedicated 5V supply (but can run off of 5V if needed). 
 
 ## Contents
 
@@ -16,7 +16,7 @@ The Blaster Bit connects to the E-21 Neopixel Blaster. With EZ-builder you can c
 
 ## License
 
-For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else party on!
+For profit use of these files requires written consent. Contact partners@synthiam.com. For everyone else, party on!
 
 Please see LICENSE.md for license details.
 
