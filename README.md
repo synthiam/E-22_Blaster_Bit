@@ -19,6 +19,7 @@ We didn't stop at the software, we also made time saving hardware solutions. Thi
 - Voltage requirement: 6-24VDC (7.4V Typical)
 - Current draw: WS2812B off - 0.5mA, WS2812B white - 39mA
 - Dimensions: 16.3(W) x 18.3(L) x 10.4(H) (mm)
+- Weight: 1g
 
 **Major components:** 
 - WS2812B Addressable RGB LED
